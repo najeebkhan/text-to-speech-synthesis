@@ -1,0 +1,4739 @@
+~h "x^eh-s+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_107"
+~t "T_s"
+<ENDHMM>
+~h "x^ey-jh+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_245"
+~t "T_jh"
+<ENDHMM>
+~h "x^eh-d+ay=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_422"
+~t "T_d"
+<ENDHMM>
+~h "x^ah-b+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_75"
+~t "T_b"
+<ENDHMM>
+~h "x^dh-eh+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_247"
+~t "T_eh"
+<ENDHMM>
+~h "x^ax-ow+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_243"
+~t "T_ow"
+<ENDHMM>
+~h "x^ow-d+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_142"
+~t "T_d"
+<ENDHMM>
+~h "x^v-k+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_310"
+~t "T_k"
+<ENDHMM>
+~h "x^jh-oy+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_171"
+~t "T_oy"
+<ENDHMM>
+~h "x^pau-r+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_166"
+~t "T_r"
+<ENDHMM>
+~h "x^ae-v+y=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_366"
+~t "T_v"
+<ENDHMM>
+~h "x^r-f+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_294"
+~t "T_f"
+<ENDHMM>
+~h "x^jh-er+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_404"
+~t "T_er"
+<ENDHMM>
+~h "x^ng-s+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_180"
+~t "T_s"
+<ENDHMM>
+~h "x^zh-er+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_160"
+~t "T_er"
+<ENDHMM>
+~h "x^l-d+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_77"
+~t "T_d"
+<ENDHMM>
+~h "x^l-ih+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_101"
+~t "T_ih"
+<ENDHMM>
+~h "x^t-ae+g=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_262"
+~t "T_ae"
+<ENDHMM>
+~h "x^k-aa+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_182"
+~t "T_aa"
+<ENDHMM>
+~h "x^l-ax+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_410"
+~t "T_ax"
+<ENDHMM>
+~h "x^d-ey+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_266"
+~t "T_ey"
+<ENDHMM>
+~h "x^hh-ah+ch=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_98"
+~t "T_ah"
+<ENDHMM>
+~h "x^n-ih+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_100"
+~t "T_ih"
+<ENDHMM>
+~h "x^n-w+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_208"
+~t "T_w"
+<ENDHMM>
+~h "x^d-m+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_248"
+~t "T_m"
+<ENDHMM>
+~h "x^ih-d+g=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_99"
+~t "T_d"
+<ENDHMM>
+~h "x^ey-f+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_47"
+~t "T_f"
+<ENDHMM>
+~h "x^v-f+ey=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_231"
+~t "T_f"
+<ENDHMM>
+~h "x^g-ow+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_170"
+~t "T_ow"
+<ENDHMM>
+~h "x^z-r+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_351"
+~t "T_r"
+<ENDHMM>
+~h "x^z-n+ao=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_382"
+~t "T_n"
+<ENDHMM>
+~h "x^s-k+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_121"
+~t "T_k"
+<ENDHMM>
+~h "x^iy-m+ay=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_384"
+~t "T_m"
+<ENDHMM>
+~h "x^n-hh+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_135"
+~t "T_hh"
+<ENDHMM>
+~h "x^sh-t+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_252"
+~t "T_t"
+<ENDHMM>
+~h "x^k-s+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_358"
+~t "T_s"
+<ENDHMM>
+~h "x^ah-p+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_6"
+~t "T_p"
+<ENDHMM>
+~h "x^ih-n+w=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_9"
+~t "T_n"
+<ENDHMM>
+~h "x^s-iy+w=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_170"
+~t "T_iy"
+<ENDHMM>
+~h "x^aa-dh+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_236"
+~t "T_dh"
+<ENDHMM>
+~h "x^ax-hh+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_49"
+~t "T_hh"
+<ENDHMM>
+~h "x^ow-n+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_384"
+~t "T_n"
+<ENDHMM>
+~h "x^g-jh+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_130"
+~t "T_jh"
+<ENDHMM>
+~h "x^dh-ax+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_224"
+~t "T_ax"
+<ENDHMM>
+~h "x^z-m+ey=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_382"
+~t "T_m"
+<ENDHMM>
+~h "x^er-r+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_418"
+~t "T_r"
+<ENDHMM>
+~h "x^v-ax+ch=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_313"
+~t "T_ax"
+<ENDHMM>
+~h "x^th-l+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_56"
+~t "T_l"
+<ENDHMM>
+~h "x^pau-pau+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_2"
+~t "T_pau"
+<ENDHMM>
+~h "x^hh-ay+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_442"
+~t "T_ay"
+<ENDHMM>
+~h "x^t-r+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_109"
+~t "T_r"
+<ENDHMM>
+~h "x^t-uh+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_174"
+~t "T_uh"
+<ENDHMM>
+~h "x^ih-t+ey=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_416"
+~t "T_t"
+<ENDHMM>
+~h "x^iy-s+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_316"
+~t "T_s"
+<ENDHMM>
+~h "x^m-er+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_161"
+~t "T_er"
+<ENDHMM>
+~h "x^aa-r+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_143"
+~t "T_r"
+<ENDHMM>
+~h "x^ae-l+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_348"
+~t "T_l"
+<ENDHMM>
+~h "x^s-aa+zh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_181"
+~t "T_aa"
+<ENDHMM>
+~h "x^sh-t+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_112"
+~t "T_t"
+<ENDHMM>
+~h "x^oy-p+aw=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_274"
+~t "T_p"
+<ENDHMM>
+~h "x^ey-s+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_354"
+~t "T_s"
+<ENDHMM>
+~h "x^pau-dh+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_10"
+~t "T_dh"
+<ENDHMM>
+~h "x^ih-ch+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_122"
+~t "T_ch"
+<ENDHMM>
+~h "x^jh-oy+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_177"
+~t "T_oy"
+<ENDHMM>
+~h "x^dh-ax+g=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_223"
+~t "T_ax"
+<ENDHMM>
+~h "x^jh-er+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_103"
+~t "T_er"
+<ENDHMM>
+~h "x^p-s+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_133"
+~t "T_s"
+<ENDHMM>
+~h "x^l-ow+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_164"
+~t "T_ow"
+<ENDHMM>
+~h "x^l-ih+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_410"
+~t "T_ih"
+<ENDHMM>
+~h "x^l-aa+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_58"
+~t "T_aa"
+<ENDHMM>
+~h "x^d-s+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_89"
+~t "T_s"
+<ENDHMM>
+~h "x^b-er+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_140"
+~t "T_er"
+<ENDHMM>
+~h "x^er-pau+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_3"
+~t "T_pau"
+<ENDHMM>
+~h "x^ow-sh+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_46"
+~t "T_sh"
+<ENDHMM>
+~h "x^ch-ey+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_264"
+~t "T_ey"
+<ENDHMM>
+~h "x^ey-zh+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_308"
+~t "T_zh"
+<ENDHMM>
+~h "x^n-y+ah=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_31"
+~t "T_y"
+<ENDHMM>
+~h "x^ih-ng+aw=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_26"
+~t "T_ng"
+<ENDHMM>
+~h "x^d-t+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_280"
+~t "T_t"
+<ENDHMM>
+~h "x^er-ay+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_123"
+~t "T_ay"
+<ENDHMM>
+~h "x^er-t+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_282"
+~t "T_t"
+<ENDHMM>
+~h "x^ng-k+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_356"
+~t "T_k"
+<ENDHMM>
+~h "x^uh-r+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_370"
+~t "T_r"
+<ENDHMM>
+~h "x^n-v+ey=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_93"
+~t "T_v"
+<ENDHMM>
+~h "x^b-eh+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_43"
+~t "T_eh"
+<ENDHMM>
+~h "x^ih-s+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_315"
+~t "T_s"
+<ENDHMM>
+~h "x^pau-p+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_365"
+~t "T_p"
+<ENDHMM>
+~h "x^ih-sh+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_11"
+~t "T_sh"
+<ENDHMM>
+~h "x^z-hh+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_302"
+~t "T_hh"
+<ENDHMM>
+~h "x^er-l+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_204"
+~t "T_l"
+<ENDHMM>
+~h "x^z-ay+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_412"
+~t "T_ay"
+<ENDHMM>
+~h "x^p-l+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_334"
+~t "T_l"
+<ENDHMM>
+~h "x^t-ih+jh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_215"
+~t "T_ih"
+<ENDHMM>
+~h "x^ow-iy+v=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_243"
+~t "T_iy"
+<ENDHMM>
+~h "x^t-hh+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_222"
+~t "T_hh"
+<ENDHMM>
+~h "x^er-th+w=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_54"
+~t "T_th"
+<ENDHMM>
+~h "x^ch-g+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_121"
+~t "T_g"
+<ENDHMM>
+~h "x^r-ah+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_269"
+~t "T_ah"
+<ENDHMM>
+~h "x^z-l+ay=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_351"
+~t "T_l"
+<ENDHMM>
+~h "iy-d+ih"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_277"
+~t "T_d"
+<ENDHMM>
+~h "x^ng-aw+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_412"
+~t "T_aw"
+<ENDHMM>
+~h "x^ih-n+z=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_20"
+~t "T_n"
+<ENDHMM>
+~h "x^ih-m+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_424"
+~t "T_m"
+<ENDHMM>
+~h "x^b-ah+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_136"
+~t "T_ah"
+<ENDHMM>
+~h "x^er-l+ay=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_206"
+~t "T_l"
+<ENDHMM>
+~h "x^ow-k+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_235"
+~t "T_k"
+<ENDHMM>
+~h "x^ch-ao+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_322"
+~t "T_ao"
+<ENDHMM>
+~h "x^m-d+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_64"
+~t "T_d"
+<ENDHMM>
+~h "x^l-ax+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_129"
+~t "T_ax"
+<ENDHMM>
+~h "x^p-ao+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_67"
+~t "T_ao"
+<ENDHMM>
+~h "x^ih-v+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_142"
+~t "T_v"
+<ENDHMM>
+~h "x^r-ah+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_337"
+~t "T_ah"
+<ENDHMM>
+~h "x^s-ah+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_137"
+~t "T_ah"
+<ENDHMM>
+~h "x^p-jh+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_175"
+~t "T_jh"
+<ENDHMM>
+~h "x^l-g+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_367"
+~t "T_g"
+<ENDHMM>
+~h "x^m-jh+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_94"
+~t "T_jh"
+<ENDHMM>
+~h "x^ae-l+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_259"
+~t "T_l"
+<ENDHMM>
+~h "x^r-s+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_176"
+~t "T_s"
+<ENDHMM>
+~h "x^k-s+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_400"
+~t "T_s"
+<ENDHMM>
+~h "x^ow-ae+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_349"
+~t "T_ae"
+<ENDHMM>
+~h "x^g-pau+x=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_398"
+~t "T_pau"
+<ENDHMM>
+~h "x^z-s+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_45"
+~t "T_s"
+<ENDHMM>
+~h "x^l-ih+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_128"
+~t "T_ih"
+<ENDHMM>
+~h "x^aa-z+th=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_210"
+~t "T_z"
+<ENDHMM>
+~h "x^l-aa+g=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_98"
+~t "T_aa"
+<ENDHMM>
+~h "x^ih-z+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_307"
+~t "T_z"
+<ENDHMM>
+~h "x^z-p+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_364"
+~t "T_p"
+<ENDHMM>
+~h "x^ng-dh+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_33"
+~t "T_dh"
+<ENDHMM>
+~h "x^w-ay+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_153"
+~t "T_ay"
+<ENDHMM>
+~h "t-v+eh"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_277"
+~t "T_v"
+<ENDHMM>
+~h "x^eh-n+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_387"
+~t "T_n"
+<ENDHMM>
+~h "x^r-s+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_54"
+~t "T_s"
+<ENDHMM>
+~h "x^r-ay+aw=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_443"
+~t "T_ay"
+<ENDHMM>
+~h "x^d-p+ey=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_12"
+~t "T_p"
+<ENDHMM>
+~h "x^iy-l+z=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_183"
+~t "T_l"
+<ENDHMM>
+~h "x^er-p+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_436"
+~t "T_p"
+<ENDHMM>
+~h "x^b-eh+g=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_215"
+~t "T_eh"
+<ENDHMM>
+~h "x^ae-m+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_127"
+~t "T_m"
+<ENDHMM>
+~h "x^zh-ax+w=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_227"
+~t "T_ax"
+<ENDHMM>
+~h "x^ah-m+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_9"
+~t "T_m"
+<ENDHMM>
+~h "x^ey-l+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_78"
+~t "T_l"
+<ENDHMM>
+~h "x^y-uw+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_428"
+~t "T_uw"
+<ENDHMM>
+~h "x^ih-ng+jh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_9"
+~t "T_ng"
+<ENDHMM>
+~h "x^pau-s+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_30"
+~t "T_s"
+<ENDHMM>
+~h "x^r-ah+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_336"
+~t "T_ah"
+<ENDHMM>
+~h "x^hh-iy+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_149"
+~t "T_iy"
+<ENDHMM>
+~h "g-ih+n"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_186"
+~t "T_ih"
+<ENDHMM>
+~h "x^r-iy+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_432"
+~t "T_iy"
+<ENDHMM>
+~h "x^d-b+oy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_12"
+~t "T_b"
+<ENDHMM>
+~h "x^s-er+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_139"
+~t "T_er"
+<ENDHMM>
+~h "x^aw-sh+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_47"
+~t "T_sh"
+<ENDHMM>
+~h "x^t-m+ay=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_383"
+~t "T_m"
+<ENDHMM>
+~h "x^ay-k+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_375"
+~t "T_k"
+<ENDHMM>
+~h "x^ih-jh+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_210"
+~t "T_jh"
+<ENDHMM>
+~h "x^n-aw+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_178"
+~t "T_aw"
+<ENDHMM>
+~h "x^dh-ax+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_373"
+~t "T_ax"
+<ENDHMM>
+~h "x^b-ah+v=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_217"
+~t "T_ah"
+<ENDHMM>
+~h "x^f-dh+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_369"
+~t "T_dh"
+<ENDHMM>
+~h "x^d-w+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_158"
+~t "T_w"
+<ENDHMM>
+~h "x^ao-f+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_202"
+~t "T_f"
+<ENDHMM>
+~h "x^l-f+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_296"
+~t "T_f"
+<ENDHMM>
+~h "x^ih-g+ch=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_342"
+~t "T_g"
+<ENDHMM>
+~h "x^t-ae+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_211"
+~t "T_ae"
+<ENDHMM>
+~h "x^ng-l+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_377"
+~t "T_l"
+<ENDHMM>
+~h "x^l-ax+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_188"
+~t "T_ax"
+<ENDHMM>
+~h "x^p-l+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_333"
+~t "T_l"
+<ENDHMM>
+~h "x^aa-k+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_437"
+~t "T_k"
+<ENDHMM>
+~h "x^r-th+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_353"
+~t "T_th"
+<ENDHMM>
+~h "dh-ax+b"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_186"
+~t "T_ax"
+<ENDHMM>
+~h "x^jh-d+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_219"
+~t "T_d"
+<ENDHMM>
+~h "x^ch-ey+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_178"
+~t "T_ey"
+<ENDHMM>
+~h "x^ax-z+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_70"
+~t "T_z"
+<ENDHMM>
+~h "x^s-m+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_381"
+~t "T_m"
+<ENDHMM>
+~h "x^ow-pau+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_52"
+~t "T_pau"
+<ENDHMM>
+~h "x^aa-th+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_118"
+~t "T_th"
+<ENDHMM>
+~h "x^er-t+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_408"
+~t "T_t"
+<ENDHMM>
+~h "x^ng-z+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_37"
+~t "T_z"
+<ENDHMM>
+~h "x^eh-f+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_281"
+~t "T_f"
+<ENDHMM>
+~h "x^pau-hh+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_4"
+~t "T_hh"
+<ENDHMM>
+~h "x^ch-ao+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_154"
+~t "T_ao"
+<ENDHMM>
+~h "x^l-ih+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_188"
+~t "T_ih"
+<ENDHMM>
+~h "x^aw-t+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_229"
+~t "T_t"
+<ENDHMM>
+~h "x^t-t+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_279"
+~t "T_t"
+<ENDHMM>
+~h "x^ch-iy+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_301"
+~t "T_iy"
+<ENDHMM>
+~h "x^p-pau+x=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_389"
+~t "T_pau"
+<ENDHMM>
+~h "x^r-eh+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_125"
+~t "T_eh"
+<ENDHMM>
+~h "x^aa-t+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_433"
+~t "T_t"
+<ENDHMM>
+~h "x^ae-l+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_260"
+~t "T_l"
+<ENDHMM>
+~h "x^m-ow+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_401"
+~t "T_ow"
+<ENDHMM>
+~h "x^sh-t+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_250"
+~t "T_t"
+<ENDHMM>
+~h "x^ay-th+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_95"
+~t "T_th"
+<ENDHMM>
+~h "x^pau-g+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_232"
+~t "T_g"
+<ENDHMM>
+~h "x^iy-ax+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_196"
+~t "T_ax"
+<ENDHMM>
+~h "x^dh-ax+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_311"
+~t "T_ax"
+<ENDHMM>
+~h "x^pau-b+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_241"
+~t "T_b"
+<ENDHMM>
+~h "x^t-ae+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_261"
+~t "T_ae"
+<ENDHMM>
+~h "x^m-b+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_94"
+~t "T_b"
+<ENDHMM>
+~h "x^z-v+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_219"
+~t "T_v"
+<ENDHMM>
+~h "x^iy-s+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_355"
+~t "T_s"
+<ENDHMM>
+~h "x^ng-n+ah=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_350"
+~t "T_n"
+<ENDHMM>
+~h "x^ey-b+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_74"
+~t "T_b"
+<ENDHMM>
+~h "x^z-w+uw=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_382"
+~t "T_w"
+<ENDHMM>
+~h "x^r-ah+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_188"
+~t "T_ah"
+<ENDHMM>
+~h "x^d-v+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_440"
+~t "T_v"
+<ENDHMM>
+~h "x^er-ay+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_273"
+~t "T_ay"
+<ENDHMM>
+~h "x^dh-ih+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_84"
+~t "T_ih"
+<ENDHMM>
+~h "x^n-z+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_363"
+~t "T_z"
+<ENDHMM>
+~h "x^er-n+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_249"
+~t "T_n"
+<ENDHMM>
+~h "x^s-b+uh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_194"
+~t "T_b"
+<ENDHMM>
+~h "x^z-ay+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_426"
+~t "T_ay"
+<ENDHMM>
+~h "x^p-n+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_383"
+~t "T_n"
+<ENDHMM>
+~h "x^r-eh+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_360"
+~t "T_eh"
+<ENDHMM>
+~h "x^oy-r+ay=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_167"
+~t "T_r"
+<ENDHMM>
+~h "x^eh-p+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_110"
+~t "T_p"
+<ENDHMM>
+~h "x^ih-dh+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_7"
+~t "T_dh"
+<ENDHMM>
+~h "x^b-eh+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_80"
+~t "T_eh"
+<ENDHMM>
+~h "x^ng-r+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_409"
+~t "T_r"
+<ENDHMM>
+~h "x^t-er+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_38"
+~t "T_er"
+<ENDHMM>
+~h "x^t-sh+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_231"
+~t "T_sh"
+<ENDHMM>
+~h "x^ng-th+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_180"
+~t "T_th"
+<ENDHMM>
+~h "x^pau-w+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_92"
+~t "T_w"
+<ENDHMM>
+~h "x^t-hh+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_289"
+~t "T_hh"
+<ENDHMM>
+~h "x^r-eh+g=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_124"
+~t "T_eh"
+<ENDHMM>
+~h "x^ey-pau+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_42"
+~t "T_pau"
+<ENDHMM>
+~h "x^r-oy+y=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_273"
+~t "T_oy"
+<ENDHMM>
+~h "x^ay-k+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_6"
+~t "T_k"
+<ENDHMM>
+~h "x^z-r+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_352"
+~t "T_r"
+<ENDHMM>
+~h "x^ay-f+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_201"
+~t "T_f"
+<ENDHMM>
+~h "x^n-w+ay=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_207"
+~t "T_w"
+<ENDHMM>
+~h "x^ae-l+v=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_268"
+~t "T_l"
+<ENDHMM>
+~h "x^th-r+uw=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_56"
+~t "T_r"
+<ENDHMM>
+~h "x^k-r+uh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_334"
+~t "T_r"
+<ENDHMM>
+~h "x^l-sh+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_296"
+~t "T_sh"
+<ENDHMM>
+~h "x^y-ao+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_318"
+~t "T_ao"
+<ENDHMM>
+~h "x^er-r+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_371"
+~t "T_r"
+<ENDHMM>
+~h "x^b-eh+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_120"
+~t "T_eh"
+<ENDHMM>
+~h "x^eh-f+y=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_293"
+~t "T_f"
+<ENDHMM>
+~h "x^ae-k+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_110"
+~t "T_k"
+<ENDHMM>
+~h "x^l-ax+jh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_101"
+~t "T_ax"
+<ENDHMM>
+~h "x^hh-uw+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_314"
+~t "T_uw"
+<ENDHMM>
+~h "x^ow-z+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_323"
+~t "T_z"
+<ENDHMM>
+~h "x^ow-b+uh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_240"
+~t "T_b"
+<ENDHMM>
+~h "x^ng-th+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_359"
+~t "T_th"
+<ENDHMM>
+~h "x^ih-g+th=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_60"
+~t "T_g"
+<ENDHMM>
+~h "x^m-ey+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_265"
+~t "T_ey"
+<ENDHMM>
+~h "x^ay-m+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_8"
+~t "T_m"
+<ENDHMM>
+~h "x^ow-d+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_324"
+~t "T_d"
+<ENDHMM>
+~h "x^l-uw+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_65"
+~t "T_uw"
+<ENDHMM>
+~h "x^l-v+z=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_59"
+~t "T_v"
+<ENDHMM>
+~h "x^ax-jh+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_209"
+~t "T_jh"
+<ENDHMM>
+~h "x^r-ae+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_36"
+~t "T_ae"
+<ENDHMM>
+~h "x^d-y+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_222"
+~t "T_y"
+<ENDHMM>
+~h "x^oy-g+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_234"
+~t "T_g"
+<ENDHMM>
+~h "x^ng-pau+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_1"
+~t "T_pau"
+<ENDHMM>
+~h "x^t-b+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_193"
+~t "T_b"
+<ENDHMM>
+~h "x^l-aa+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_336"
+~t "T_aa"
+<ENDHMM>
+~h "x^r-ch+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_420"
+~t "T_ch"
+<ENDHMM>
+~h "x^jh-eh+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_35"
+~t "T_eh"
+<ENDHMM>
+~h "x^dh-ih+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_162"
+~t "T_ih"
+<ENDHMM>
+~h "x^ow-n+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_345"
+~t "T_n"
+<ENDHMM>
+~h "x^dh-ax+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_150"
+~t "T_ax"
+<ENDHMM>
+~h "x^eh-l+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_205"
+~t "T_l"
+<ENDHMM>
+~h "x^d-eh+th=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_162"
+~t "T_eh"
+<ENDHMM>
+~h "x^dh-ih+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_247"
+~t "T_ih"
+<ENDHMM>
+~h "x^v-r+uw=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_16"
+~t "T_r"
+<ENDHMM>
+~h "x^r-m+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_111"
+~t "T_m"
+<ENDHMM>
+~h "x^n-d+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_239"
+~t "T_d"
+<ENDHMM>
+~h "x^er-t+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_50"
+~t "T_t"
+<ENDHMM>
+~h "x^l-aa+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_337"
+~t "T_aa"
+<ENDHMM>
+~h "x^ey-d+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_91"
+~t "T_d"
+<ENDHMM>
+~h "x^z-y+uw=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_303"
+~t "T_y"
+<ENDHMM>
+~h "x^oy-t+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_18"
+~t "T_t"
+<ENDHMM>
+~h "x^b-ae+ch=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_25"
+~t "T_ae"
+<ENDHMM>
+~h "x^b-ih+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_43"
+~t "T_ih"
+<ENDHMM>
+~h "x^b-eh+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_246"
+~t "T_eh"
+<ENDHMM>
+~h "x^er-y+uw=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_418"
+~t "T_y"
+<ENDHMM>
+~h "x^l-aa+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_188"
+~t "T_aa"
+<ENDHMM>
+~h "x^g-ow+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_402"
+~t "T_ow"
+<ENDHMM>
+~h "x^r-eh+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_361"
+~t "T_eh"
+<ENDHMM>
+~h "x^jh-eh+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_119"
+~t "T_eh"
+<ENDHMM>
+~h "x^m-p+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_363"
+~t "T_p"
+<ENDHMM>
+~h "x^l-ow+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_432"
+~t "T_ow"
+<ENDHMM>
+~h "x^er-p+ay=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_435"
+~t "T_p"
+<ENDHMM>
+~h "x^aw-n+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_127"
+~t "T_n"
+<ENDHMM>
+~h "x^g-ae+ng=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_88"
+~t "T_ae"
+<ENDHMM>
+~h "x^iy-y+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_417"
+~t "T_y"
+<ENDHMM>
+~h "x^r-dh+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_237"
+~t "T_dh"
+<ENDHMM>
+~h "x^er-w+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_159"
+~t "T_w"
+<ENDHMM>
+~h "x^m-eh+th=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_97"
+~t "T_eh"
+<ENDHMM>
+~h "x^r-ax+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_361"
+~t "T_ax"
+<ENDHMM>
+~h "x^eh-r+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_372"
+~t "T_r"
+<ENDHMM>
+~h "x^er-ey+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_444"
+~t "T_ey"
+<ENDHMM>
+~h "x^v-ih+zh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_246"
+~t "T_ih"
+<ENDHMM>
+~h "x^ey-v+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_341"
+~t "T_v"
+<ENDHMM>
+~h "x^ow-ah+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_196"
+~t "T_ah"
+<ENDHMM>
+~h "x^iy-ih+ng=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_14"
+~t "T_ih"
+<ENDHMM>
+~h "x^v-zh+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_131"
+~t "T_zh"
+<ENDHMM>
+~h "x^r-ih+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_361"
+~t "T_ih"
+<ENDHMM>
+~h "x^jh-ax+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_17"
+~t "T_ax"
+<ENDHMM>
+~h "x^oy-ax+jh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_267"
+~t "T_ax"
+<ENDHMM>
+~h "x^uw-dh+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_23"
+~t "T_dh"
+<ENDHMM>
+~h "x^v-l+ey=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_16"
+~t "T_l"
+<ENDHMM>
+~h "x^m-ah+ng=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_271"
+~t "T_ah"
+<ENDHMM>
+~h "x^r-ax+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_125"
+~t "T_ax"
+<ENDHMM>
+~h "x^ih-n+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_184"
+~t "T_n"
+<ENDHMM>
+~h "x^d-z+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_69"
+~t "T_z"
+<ENDHMM>
+~h "x^p-th+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_358"
+~t "T_th"
+<ENDHMM>
+~h "x^jh-b+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_195"
+~t "T_b"
+<ENDHMM>
+~h "x^ow-ah+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_349"
+~t "T_ah"
+<ENDHMM>
+~h "x^t-ax+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_298"
+~t "T_ax"
+<ENDHMM>
+~h "x^t-ih+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_255"
+~t "T_ih"
+<ENDHMM>
+~h "x^sh-ax+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_346"
+~t "T_ax"
+<ENDHMM>
+~h "x^aa-n+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_8"
+~t "T_n"
+<ENDHMM>
+~h "x^oy-ae+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_106"
+~t "T_ae"
+<ENDHMM>
+~h "x^v-k+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_309"
+~t "T_k"
+<ENDHMM>
+~h "x^k-uh+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_57"
+~t "T_uh"
+<ENDHMM>
+~h "x^z-z+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_220"
+~t "T_z"
+<ENDHMM>
+~h "x^r-eh+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_188"
+~t "T_eh"
+<ENDHMM>
+~h "x^r-ax+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_360"
+~t "T_ax"
+<ENDHMM>
+~h "x^l-k+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_438"
+~t "T_k"
+<ENDHMM>
+~h "x^ae-d+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_386"
+~t "T_d"
+<ENDHMM>
+~h "x^aa-zh+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_82"
+~t "T_zh"
+<ENDHMM>
+~h "x^b-ax+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_113"
+~t "T_ax"
+<ENDHMM>
+~h "x^y-uw+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_395"
+~t "T_uw"
+<ENDHMM>
+~h "x^r-ih+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_360"
+~t "T_ih"
+<ENDHMM>
+~h "x^r-ax+g=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_124"
+~t "T_ax"
+<ENDHMM>
+~h "x^hh-uh+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_342"
+~t "T_uh"
+<ENDHMM>
+~h "x^z-ao+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_155"
+~t "T_ao"
+<ENDHMM>
+~h "x^b-ih+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_79"
+~t "T_ih"
+<ENDHMM>
+~h "x^x-pau+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_326"
+~t "T_pau"
+<ENDHMM>
+~h "x^ah-f+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_46"
+~t "T_f"
+<ENDHMM>
+~h "x^ae-b+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_60"
+~t "T_b"
+<ENDHMM>
+~h "x^pau-ay+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_379"
+~t "T_ay"
+<ENDHMM>
+~h "x^er-ey+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_152"
+~t "T_ey"
+<ENDHMM>
+~h "x^f-eh+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_255"
+~t "T_eh"
+<ENDHMM>
+~h "x^ey-m+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_423"
+~t "T_m"
+<ENDHMM>
+~h "k-aa+n"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_147"
+~t "T_aa"
+<ENDHMM>
+~h "x^ow-eh+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_349"
+~t "T_eh"
+<ENDHMM>
+~h "x^p-t+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_71"
+~t "T_t"
+<ENDHMM>
+~h "x^er-y+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_372"
+~t "T_y"
+<ENDHMM>
+~h "x^ih-t+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_415"
+~t "T_t"
+<ENDHMM>
+~h "x^eh-t+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_331"
+~t "T_t"
+<ENDHMM>
+~h "x^g-hh+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_290"
+~t "T_hh"
+<ENDHMM>
+~h "x^b-ih+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_83"
+~t "T_ih"
+<ENDHMM>
+~h "x^jh-ax+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_253"
+~t "T_ax"
+<ENDHMM>
+~h "x^aa-jh+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_406"
+~t "T_jh"
+<ENDHMM>
+~h "x^n-ow+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_431"
+~t "T_ow"
+<ENDHMM>
+~h "x^p-r+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_333"
+~t "T_r"
+<ENDHMM>
+~h "x^uw-l+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_328"
+~t "T_l"
+<ENDHMM>
+~h "x^jh-ih+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_35"
+~t "T_ih"
+<ENDHMM>
+~h "x^oy-ae+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_348"
+~t "T_ae"
+<ENDHMM>
+~h "x^g-hh+ao=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_221"
+~t "T_hh"
+<ENDHMM>
+~h "x^t-uw+th=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_320"
+~t "T_uw"
+<ENDHMM>
+~h "x^r-ih+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_81"
+~t "T_ih"
+<ENDHMM>
+~h "x^ax-s+uh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_32"
+~t "T_s"
+<ENDHMM>
+~h "x^aa-z+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_405"
+~t "T_z"
+<ENDHMM>
+~h "x^s-iy+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_108"
+~t "T_iy"
+<ENDHMM>
+~h "x^ao-ng+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_185"
+~t "T_ng"
+<ENDHMM>
+~h "x^ah-m+z=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_20"
+~t "T_m"
+<ENDHMM>
+~h "x^er-t+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_407"
+~t "T_t"
+<ENDHMM>
+~h "x^aa-k+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_27"
+~t "T_k"
+<ENDHMM>
+~h "x^z-t+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_391"
+~t "T_t"
+<ENDHMM>
+~h "x^n-jh+oy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_93"
+~t "T_jh"
+<ENDHMM>
+~h "x^hh-ao+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_300"
+~t "T_ao"
+<ENDHMM>
+~h "x^hh-iy+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_148"
+~t "T_iy"
+<ENDHMM>
+~h "x^f-th+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_44"
+~t "T_th"
+<ENDHMM>
+~h "x^m-hh+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_134"
+~t "T_hh"
+<ENDHMM>
+~h "x^ah-p+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_115"
+~t "T_p"
+<ENDHMM>
+~h "x^ow-eh+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_106"
+~t "T_eh"
+<ENDHMM>
+~h "x^sh-ax+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_114"
+~t "T_ax"
+<ENDHMM>
+~h "x^hh-ae+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_146"
+~t "T_ae"
+<ENDHMM>
+~h "x^hh-uh+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_367"
+~t "T_uh"
+<ENDHMM>
+~h "x^l-d+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_141"
+~t "T_d"
+<ENDHMM>
+~h "x^s-ax+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_394"
+~t "T_ax"
+<ENDHMM>
+~h "x^iy-aw+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_152"
+~t "T_aw"
+<ENDHMM>
+~h "x^er-ae+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_156"
+~t "T_ae"
+<ENDHMM>
+~h "x^g-d+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_439"
+~t "T_d"
+<ENDHMM>
+~h "x^uw-jh+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_57"
+~t "T_jh"
+<ENDHMM>
+~h "x^ng-v+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_94"
+~t "T_v"
+<ENDHMM>
+~h "x^sh-ax+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_173"
+~t "T_ax"
+<ENDHMM>
+~h "x^hh-ae+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_55"
+~t "T_ae"
+<ENDHMM>
+~h "x^ng-w+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_73"
+~t "T_w"
+<ENDHMM>
+~h "x^oy-l+z=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_267"
+~t "T_l"
+<ENDHMM>
+~h "x^ng-t+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_362"
+~t "T_t"
+<ENDHMM>
+~h "x^b-d+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_441"
+~t "T_d"
+<ENDHMM>
+~h "x^pau-y+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_166"
+~t "T_y"
+<ENDHMM>
+~h "x^s-ax+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_347"
+~t "T_ax"
+<ENDHMM>
+~h "x^f-t+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_414"
+~t "T_t"
+<ENDHMM>
+~h "x^ey-v+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_60"
+~t "T_v"
+<ENDHMM>
+~h "x^ih-dh+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_210"
+~t "T_dh"
+<ENDHMM>
+~h "x^er-y+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_167"
+~t "T_y"
+<ENDHMM>
+~h "x^z-ae+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_212"
+~t "T_ae"
+<ENDHMM>
+~h "x^t-ow+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_108"
+~t "T_ow"
+<ENDHMM>
+~h "x^t-ah+v=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_216"
+~t "T_ah"
+<ENDHMM>
+~h "x^eh-l+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_349"
+~t "T_l"
+<ENDHMM>
+~h "x^ey-l+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_327"
+~t "T_l"
+<ENDHMM>
+~h "x^n-dh+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_34"
+~t "T_dh"
+<ENDHMM>
+~h "x^ow-th+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_41"
+~t "T_th"
+<ENDHMM>
+~h "x^er-v+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_74"
+~t "T_v"
+<ENDHMM>
+~h "x^r-iy+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_165"
+~t "T_iy"
+<ENDHMM>
+~h "x^g-uw+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_319"
+~t "T_uw"
+<ENDHMM>
+~h "x^ow-ax+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_349"
+~t "T_ax"
+<ENDHMM>
+~h "x^aw-t+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_24"
+~t "T_t"
+<ENDHMM>
+~h "x^sh-ax+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_392"
+~t "T_ax"
+<ENDHMM>
+~h "x^aa-t+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_230"
+~t "T_t"
+<ENDHMM>
+~h "x^iy-ax+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_372"
+~t "T_ax"
+<ENDHMM>
+~h "x^n-b+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_93"
+~t "T_b"
+<ENDHMM>
+~h "x^r-aa+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_269"
+~t "T_aa"
+<ENDHMM>
+~h "x^eh-p+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_27"
+~t "T_p"
+<ENDHMM>
+~h "x^g-n+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_343"
+~t "T_n"
+<ENDHMM>
+~h "x^dh-ax+uw=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_297"
+~t "T_ax"
+<ENDHMM>
+~h "x^ch-uw+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_396"
+~t "T_uw"
+<ENDHMM>
+~h "x^y-ey+ay=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_442"
+~t "T_ey"
+<ENDHMM>
+~h "x^ax-ih+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_349"
+~t "T_ih"
+<ENDHMM>
+~h "x^m-f+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_295"
+~t "T_f"
+<ENDHMM>
+~h "x^ih-r+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_417"
+~t "T_r"
+<ENDHMM>
+~h "x^th-ch+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_419"
+~t "T_ch"
+<ENDHMM>
+~h "x^hh-ae+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_40"
+~t "T_ae"
+<ENDHMM>
+~h "x^p-w+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_72"
+~t "T_w"
+<ENDHMM>
+~h "x^n-pau+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_51"
+~t "T_pau"
+<ENDHMM>
+~h "x^k-ay+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_411"
+~t "T_ay"
+<ENDHMM>
+~h "x^g-m+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_343"
+~t "T_m"
+<ENDHMM>
+~h "x^ax-w+uh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_13"
+~t "T_w"
+<ENDHMM>
+~h "x^ey-t+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_329"
+~t "T_t"
+<ENDHMM>
+~h "x^iy-jh+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_244"
+~t "T_jh"
+<ENDHMM>
+~h "x^t-l+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_109"
+~t "T_l"
+<ENDHMM>
+~h "x^l-z+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_68"
+~t "T_z"
+<ENDHMM>
+~h "x^z-dh+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_86"
+~t "T_dh"
+<ENDHMM>
+~h "x^zh-ey+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_213"
+~t "T_ey"
+<ENDHMM>
+~h "x^ih-jh+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_82"
+~t "T_jh"
+<ENDHMM>
+~h "x^t-l+oy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_352"
+~t "T_l"
+<ENDHMM>
+~h "x^ow-ih+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_106"
+~t "T_ih"
+<ENDHMM>
+~h "x^uw-n+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_185"
+~t "T_n"
+<ENDHMM>
+~h "x^t-th+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_89"
+~t "T_th"
+<ENDHMM>
+~h "x^n-ah+th=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_189"
+~t "T_ah"
+<ENDHMM>
+~h "x^ih-t+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_110"
+~t "T_t"
+<ENDHMM>
+~h "x^ax-th+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_32"
+~t "T_th"
+<ENDHMM>
+~h "x^ao-r+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_214"
+~t "T_r"
+<ENDHMM>
+~h "x^l-r+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_410"
+~t "T_r"
+<ENDHMM>
+~h "x^x-pau+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_276"
+~t "T_pau"
+<ENDHMM>
+~h "x^ih-t+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_199"
+~t "T_t"
+<ENDHMM>
+~h "x^ih-dh+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_117"
+~t "T_dh"
+<ENDHMM>
+~h "x^r-pau+x=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_284"
+~t "T_pau"
+<ENDHMM>
+~h "x^hh-aw+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_442"
+~t "T_aw"
+<ENDHMM>
+~h "x^aa-t+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_228"
+~t "T_t"
+<ENDHMM>
+~h "x^f-t+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_102"
+~t "T_t"
+<ENDHMM>
+~h "x^ih-dh+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_209"
+~t "T_dh"
+<ENDHMM>
+~h "x^hh-ae+v=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_145"
+~t "T_ae"
+<ENDHMM>
+~h "x^n-k+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_357"
+~t "T_k"
+<ENDHMM>
+~h "x^aa-z+uw=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_406"
+~t "T_z"
+<ENDHMM>
+~h "x^eh-d+th=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_421"
+~t "T_d"
+<ENDHMM>
+~h "x^sh-iy+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_169"
+~t "T_iy"
+<ENDHMM>
+~h "x^oy-ah+v=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_267"
+~t "T_ah"
+<ENDHMM>
+~h "x^n-d+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_238"
+~t "T_d"
+<ENDHMM>
+~h "x^n-th+uw=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_339"
+~t "T_th"
+<ENDHMM>
+~h "x^dh-dh+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_85"
+~t "T_dh"
+<ENDHMM>
+~h "x^d-z+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_440"
+~t "T_z"
+<ENDHMM>
+~h "x^n-ax+jh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_100"
+~t "T_ax"
+<ENDHMM>
+~h "x^ay-p+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_375"
+~t "T_p"
+<ENDHMM>
+~h "x^ae-d+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_378"
+~t "T_d"
+<ENDHMM>
+~h "x^t-ax+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_172"
+~t "T_ax"
+<ENDHMM>
+~h "x^r-l+z=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_188"
+~t "T_l"
+<ENDHMM>
+~h "x^k-th+ah=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_399"
+~t "T_th"
+<ENDHMM>
+~h "x^ow-aa+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_196"
+~t "T_aa"
+<ENDHMM>
+~h "x^y-eh+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_410"
+~t "T_eh"
+<ENDHMM>
+~h "x^ae-s+th=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_95"
+~t "T_s"
+<ENDHMM>
+~h "x^f-ah+ng=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_215"
+~t "T_ah"
+<ENDHMM>
+~h "x^ow-aa+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_349"
+~t "T_aa"
+<ENDHMM>
+~h "hh-ae+d"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_186"
+~t "T_ae"
+<ENDHMM>
+~h "x^er-oy+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_152"
+~t "T_oy"
+<ENDHMM>
+~h "x^pau-sh+uh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_76"
+~t "T_sh"
+<ENDHMM>
+~h "x^x-pau+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_275"
+~t "T_pau"
+<ENDHMM>
+~h "x^er-ah+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_156"
+~t "T_ah"
+<ENDHMM>
+~h "x^uh-k+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_168"
+~t "T_k"
+<ENDHMM>
+~h "x^n-sh+ah=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_39"
+~t "T_sh"
+<ENDHMM>
+~h "x^r-g+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_74"
+~t "T_g"
+<ENDHMM>
+~h "x^k-s+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_278"
+~t "T_s"
+<ENDHMM>
+~h "x^hh-ah+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_270"
+~t "T_ah"
+<ENDHMM>
+~h "x^jh-ah+ng=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_35"
+~t "T_ah"
+<ENDHMM>
+~h "x^n-g+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_93"
+~t "T_g"
+<ENDHMM>
+~h "x^hh-ah+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_263"
+~t "T_ah"
+<ENDHMM>
+~h "x^iy-ow+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_242"
+~t "T_ow"
+<ENDHMM>
+~h "v-eh+r"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_186"
+~t "T_eh"
+<ENDHMM>
+~h "x^aa-t+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_434"
+~t "T_t"
+<ENDHMM>
+~h "x^pau-ay+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_380"
+~t "T_ay"
+<ENDHMM>
+~h "x^b-uh+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_131"
+~t "T_uh"
+<ENDHMM>
+~h "x^w-ay+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_344"
+~t "T_ay"
+<ENDHMM>
+~h "x^hh-eh+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_61"
+~t "T_eh"
+<ENDHMM>
+~h "x^m-g+ey=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_94"
+~t "T_g"
+<ENDHMM>
+~h "x^er-eh+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_156"
+~t "T_eh"
+<ENDHMM>
+~h "x^eh-r+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_349"
+~t "T_r"
+<ENDHMM>
+~h "x^z-eh+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_29"
+~t "T_eh"
+<ENDHMM>
+~h "x^ih-jh+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_117"
+~t "T_jh"
+<ENDHMM>
+~h "x^ih-r+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_196"
+~t "T_r"
+<ENDHMM>
+~h "x^ih-s+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_41"
+~t "T_s"
+<ENDHMM>
+~h "x^l-aw+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_443"
+~t "T_aw"
+<ENDHMM>
+~h "x^n-t+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_37"
+~t "T_t"
+<ENDHMM>
+~h "x^f-ao+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_299"
+~t "T_ao"
+<ENDHMM>
+~h "x^z-ax+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_151"
+~t "T_ax"
+<ENDHMM>
+~h "x^er-z+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_117"
+~t "T_z"
+<ENDHMM>
+~h "x^k-y+ao=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_221"
+~t "T_y"
+<ENDHMM>
+~h "x^n-s+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_339"
+~t "T_s"
+<ENDHMM>
+~h "w-ah+n"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_147"
+~t "T_ah"
+<ENDHMM>
+~h "x^er-z+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_209"
+~t "T_z"
+<ENDHMM>
+~h "x^n-l+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_376"
+~t "T_l"
+<ENDHMM>
+~h "x^eh-r+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_430"
+~t "T_r"
+<ENDHMM>
+~h "x^oy-ax+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_348"
+~t "T_ax"
+<ENDHMM>
+~h "x^er-ax+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_156"
+~t "T_ax"
+<ENDHMM>
+~h "x^hh-aw+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_273"
+~t "T_aw"
+<ENDHMM>
+~h "x^oy-ih+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_348"
+~t "T_ih"
+<ENDHMM>
+~h "x^n-d+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_19"
+~t "T_d"
+<ENDHMM>
+~h "x^er-ih+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_156"
+~t "T_ih"
+<ENDHMM>
+~h "x^r-r+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_125"
+~t "T_r"
+<ENDHMM>
+~h "x^g-er+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_403"
+~t "T_er"
+<ENDHMM>
+~h "x^g-ao+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_321"
+~t "T_ao"
+<ENDHMM>
+~h "x^eh-r+g=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_429"
+~t "T_r"
+<ENDHMM>
+~h "x^t-zh+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_175"
+~t "T_zh"
+<ENDHMM>
+~h "x^n-iy+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_431"
+~t "T_iy"
+<ENDHMM>
+~h "x^ey-iy+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_242"
+~t "T_iy"
+<ENDHMM>
+~h "x^k-l+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_126"
+~t "T_l"
+<ENDHMM>
+~h "x^oy-aa+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_259"
+~t "T_aa"
+<ENDHMM>
+~h "x^pau-k+uh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_233"
+~t "T_k"
+<ENDHMM>
+~h "x^hh-ih+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_61"
+~t "T_ih"
+<ENDHMM>
+~h "x^pau-f+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_76"
+~t "T_f"
+<ENDHMM>
+~h "x^s-p+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_87"
+~t "T_p"
+<ENDHMM>
+~h "x^z-ih+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_29"
+~t "T_ih"
+<ENDHMM>
+~h "x^pau-th+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_30"
+~t "T_th"
+<ENDHMM>
+~h "x^n-uw+y=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_332"
+~t "T_uw"
+<ENDHMM>
+~h "x^hh-eh+v=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_62"
+~t "T_eh"
+<ENDHMM>
+~h "x^ng-k+hh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_37"
+~t "T_k"
+<ENDHMM>
+~h "x^m-ay+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_425"
+~t "T_ay"
+<ENDHMM>
+~h "x^w-aa+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_272"
+~t "T_aa"
+<ENDHMM>
+~h "x^l-ao+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_257"
+~t "T_ao"
+<ENDHMM>
+~h "x^iy-dh+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_163"
+~t "T_dh"
+<ENDHMM>
+~h "x^ao-l+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_203"
+~t "T_l"
+<ENDHMM>
+~h "x^l-iy+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_164"
+~t "T_iy"
+<ENDHMM>
+~h "x^m-r+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_101"
+~t "T_r"
+<ENDHMM>
+~h "x^uw-s+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_179"
+~t "T_s"
+<ENDHMM>
+~h "x^m-ih+th=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_97"
+~t "T_ih"
+<ENDHMM>
+~h "x^hh-ih+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_62"
+~t "T_ih"
+<ENDHMM>
+~h "x^ah-l+ch=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_156"
+~t "T_l"
+<ENDHMM>
+~h "x^t-hh+y=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_227"
+~t "T_hh"
+<ENDHMM>
+~h "x^m-r+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_286"
+~t "T_r"
+<ENDHMM>
+~h "x^s-n+ey=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_381"
+~t "T_n"
+<ENDHMM>
+~h "x^uh-r+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_187"
+~t "T_r"
+<ENDHMM>
+~h "x^uw-v+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_323"
+~t "T_v"
+<ENDHMM>
+~h "x^sh-pau+x=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_388"
+~t "T_pau"
+<ENDHMM>
+~h "x^dh-ey+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_63"
+~t "T_ey"
+<ENDHMM>
+~h "x^g-ae+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_104"
+~t "T_ae"
+<ENDHMM>
+~h "x^d-s+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_359"
+~t "T_s"
+<ENDHMM>
+~h "x^n-d+v=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_21"
+~t "T_d"
+<ENDHMM>
+~h "x^hh-aa+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_263"
+~t "T_aa"
+<ENDHMM>
+~h "x^hh-ax+w=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_62"
+~t "T_ax"
+<ENDHMM>
+~h "x^v-dh+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_368"
+~t "T_dh"
+<ENDHMM>
+~h "x^ng-ih+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_409"
+~t "T_ih"
+<ENDHMM>
+~h "x^n-r+aa=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_100"
+~t "T_r"
+<ENDHMM>
+~h "x^n-d+y=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_225"
+~t "T_d"
+<ENDHMM>
+~h "x^s-w+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_381"
+~t "T_w"
+<ENDHMM>
+~h "x^n-t+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_218"
+~t "T_t"
+<ENDHMM>
+~h "x^n-s+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_338"
+~t "T_s"
+<ENDHMM>
+~h "x^s-t+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_251"
+~t "T_t"
+<ENDHMM>
+~h "x^ih-t+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_330"
+~t "T_t"
+<ENDHMM>
+~h "n-z+ih"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_277"
+~t "T_z"
+<ENDHMM>
+~h "x^ae-d+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_385"
+~t "T_d"
+<ENDHMM>
+~h "x^ax-pau+x=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_283"
+~t "T_pau"
+<ENDHMM>
+~h "x^w-er+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_138"
+~t "T_er"
+<ENDHMM>
+~h "x^uw-hh+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_48"
+~t "T_hh"
+<ENDHMM>
+~h "x^ay-ah+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_258"
+~t "T_ah"
+<ENDHMM>
+~h "ax-y+uw"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_187"
+~t "T_y"
+<ENDHMM>
+~h "x^y-uh+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_340"
+~t "T_uh"
+<ENDHMM>
+~h "x^aa-z+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_116"
+~t "T_z"
+<ENDHMM>
+~h "x^m-ae+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_90"
+~t "T_ae"
+<ENDHMM>
+~h "x^pau-pau+x=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_5"
+~t "T_pau"
+<ENDHMM>
+~h "x^w-ah+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_28"
+~t "T_ah"
+<ENDHMM>
+~h "x^ao-r+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_292"
+~t "T_r"
+<ENDHMM>
+~h "x^f-ax+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_374"
+~t "T_ax"
+<ENDHMM>
+~h "x^ng-m+ae=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_350"
+~t "T_m"
+<ENDHMM>
+~h "x^ao-r+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_260"
+~t "T_r"
+<ENDHMM>
+~h "x^w-eh+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_304"
+~t "T_eh"
+<ENDHMM>
+~h "x^ah-b+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_142"
+~t "T_b"
+<ENDHMM>
+~h "x^k-ah+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_254"
+~t "T_ah"
+<ENDHMM>
+~h "x^k-uw+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_427"
+~t "T_uw"
+<ENDHMM>
+~h "x^w-eh+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_128"
+~t "T_eh"
+<ENDHMM>
+~h "x^w-ih+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_306"
+~t "T_ih"
+<ENDHMM>
+~h "x^uw-ah+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_197"
+~t "T_ah"
+<ENDHMM>
+~h "x^l-f+ah=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_39"
+~t "T_f"
+<ENDHMM>
+~h "x^iy-zh+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_117"
+~t "T_zh"
+<ENDHMM>
+~h "x^ay-ax+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_258"
+~t "T_ax"
+<ENDHMM>
+~h "x^ao-r+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_259"
+~t "T_r"
+<ENDHMM>
+~h "x^ah-k+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_115"
+~t "T_k"
+<ENDHMM>
+~h "x^ao-g+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_142"
+~t "T_g"
+<ENDHMM>
+~h "x^r-oy+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_444"
+~t "T_oy"
+<ENDHMM>
+~h "x^w-ax+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_305"
+~t "T_ax"
+<ENDHMM>
+~h "x^z-s+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_226"
+~t "T_s"
+<ENDHMM>
+~h "x^l-eh+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_101"
+~t "T_eh"
+<ENDHMM>
+~h "x^w-ih+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_305"
+~t "T_ih"
+<ENDHMM>
+~h "x^w-ax+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_306"
+~t "T_ax"
+<ENDHMM>
+~h "x^n-z+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_218"
+~t "T_z"
+<ENDHMM>
+~h "x^ao-r+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_291"
+~t "T_r"
+<ENDHMM>
+~h "x^m-eh+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_286"
+~t "T_eh"
+<ENDHMM>
+~h "x^ao-ah+v=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_268"
+~t "T_ah"
+<ENDHMM>
+~h "x^r-ow+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_335"
+~t "T_ow"
+<ENDHMM>
+~h "x^sh-ow+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_169"
+~t "T_ow"
+<ENDHMM>
+~h "x^ay-aa+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_260"
+~t "T_aa"
+<ENDHMM>
+~h "x^ae-ng+g=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_8"
+~t "T_ng"
+<ENDHMM>
+~h "x^w-ax+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_28"
+~t "T_ax"
+<ENDHMM>
+~h "x^d-t+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_390"
+~t "T_t"
+<ENDHMM>
+~h "x^pau-pau+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_325"
+~t "T_pau"
+<ENDHMM>
+~h "x^pau-ae+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_192"
+~t "T_ae"
+<ENDHMM>
+~h "x^m-p+th=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_37"
+~t "T_p"
+<ENDHMM>
+~h "x^w-aa+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_270"
+~t "T_aa"
+<ENDHMM>
+~h "x^m-eh+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_287"
+~t "T_eh"
+<ENDHMM>
+~h "x^b-aw+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_411"
+~t "T_aw"
+<ENDHMM>
+~h "x^uw-ax+g=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_198"
+~t "T_ax"
+<ENDHMM>
+~h "x^pau-ae+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_105"
+~t "T_ae"
+<ENDHMM>
+~h "x^m-ih+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_286"
+~t "T_ih"
+<ENDHMM>
+~h "x^n-ah+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_58"
+~t "T_ah"
+<ENDHMM>
+~h "x^n-eh+g=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_100"
+~t "T_eh"
+<ENDHMM>
+~h "x^eh-th+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_107"
+~t "T_th"
+<ENDHMM>
+~h "x^ih-ng+z=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_20"
+~t "T_ng"
+<ENDHMM>
+~h "x^m-ax+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_285"
+~t "T_ax"
+<ENDHMM>
+~h "x^w-aa+z=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_28"
+~t "T_aa"
+<ENDHMM>
+~h "x^m-ax+m=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_287"
+~t "T_ax"
+<ENDHMM>
+~h "x^uw-dh+eh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_22"
+~t "T_dh"
+<ENDHMM>
+~h "x^m-ih+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_288"
+~t "T_ih"
+<ENDHMM>
+~h "x^ih-ng+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_184"
+~t "T_ng"
+<ENDHMM>
+~h "x^x-pau+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_53"
+~t "T_pau"
+<ENDHMM>
+~h "x^d-z+ax=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_439"
+~t "T_z"
+<ENDHMM>
+~h "x^ih-dh+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_70"
+~t "T_dh"
+<ENDHMM>
+~h "x^n-eh+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_190"
+~t "T_eh"
+<ENDHMM>
+~h "x^aa-zh+ah=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_406"
+~t "T_zh"
+<ENDHMM>
+~h "x^ax-k+ay=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_435"
+~t "T_k"
+<ENDHMM>
+~h "x^m-ax+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_286"
+~t "T_ax"
+<ENDHMM>
+~h "x^dh-th+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_226"
+~t "T_th"
+<ENDHMM>
+~h "x^aa-l+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_143"
+~t "T_l"
+<ENDHMM>
+~h "x^uw-aa+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_198"
+~t "T_aa"
+<ENDHMM>
+~h "x^aa-zh+w=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_405"
+~t "T_zh"
+<ENDHMM>
+~h "x^n-th+ih=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_338"
+~t "T_th"
+<ENDHMM>
+~h "x^ng-eh+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_409"
+~t "T_eh"
+<ENDHMM>
+~h "x^m-p+d=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_218"
+~t "T_p"
+<ENDHMM>
+~h "x^ng-ax+b=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_409"
+~t "T_ax"
+<ENDHMM>
+~h "x^n-ax+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_190"
+~t "T_ax"
+<ENDHMM>
+~h "x^n-ih+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_190"
+~t "T_ih"
+<ENDHMM>
+~h "x^pau-eh+g=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_105"
+~t "T_eh"
+<ENDHMM>
+~h "x^pau-aw+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_380"
+~t "T_aw"
+<ENDHMM>
+~h "x^r-th+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_176"
+~t "T_th"
+<ENDHMM>
+~h "x^l-ao+s=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_256"
+~t "T_ao"
+<ENDHMM>
+~h "x^pau-ax+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_191"
+~t "T_ax"
+<ENDHMM>
+~h "x^pau-ih+f=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_191"
+~t "T_ih"
+<ENDHMM>
+~h "x^aa-r+sh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_157"
+~t "T_r"
+<ENDHMM>
+~h "x^pau-ih+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_105"
+~t "T_ih"
+<ENDHMM>
+~h "x^r-ow+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_165"
+~t "T_ow"
+<ENDHMM>
+~h "x^l-ae+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_200"
+~t "T_ae"
+<ENDHMM>
+~h "x^n-th+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_132"
+~t "T_th"
+<ENDHMM>
+~h "x^hh-ow+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_149"
+~t "T_ow"
+<ENDHMM>
+~h "x^k-t+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_413"
+~t "T_t"
+<ENDHMM>
+~h "x^w-ih+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_96"
+~t "T_ih"
+<ENDHMM>
+~h "x^m-sh+uh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_295"
+~t "T_sh"
+<ENDHMM>
+~h "x^p-r+ow=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_126"
+~t "T_r"
+<ENDHMM>
+~h "x^m-uh+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_218"
+~t "T_uh"
+<ENDHMM>
+~h "x^dh-ae+n=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_66"
+~t "T_ae"
+<ENDHMM>
+~h "x^hh-ow+p=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_148"
+~t "T_ow"
+<ENDHMM>
+~h "x^n-s+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_132"
+~t "T_s"
+<ENDHMM>
+~h "x^r-y+uw=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_125"
+~t "T_y"
+<ENDHMM>
+~h "x^uh-g+er=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_168"
+~t "T_g"
+<ENDHMM>
+~h "x^r-ey+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_273"
+~t "T_ey"
+<ENDHMM>
+~h "x^n-uh+k=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_37"
+~t "T_uh"
+<ENDHMM>
+~h "x^b-ao+r=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_317"
+~t "T_ao"
+<ENDHMM>
+~h "x^dh-ae+t=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_15"
+~t "T_ae"
+<ENDHMM>
+~h "x^aa-ah+v=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_143"
+~t "T_ah"
+<ENDHMM>
+~h "b-uh+k"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_175"
+~t "T_uh"
+<ENDHMM>
+~h "x^dh-oy+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_63"
+~t "T_oy"
+<ENDHMM>
+~h "x^v-ax+l=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_312"
+~t "T_ax"
+<ENDHMM>
+~h "x^k-th+pau=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_133"
+~t "T_th"
+<ENDHMM>
+~h "x^iy-pau+x=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_397"
+~t "T_pau"
+<ENDHMM>
+~h "x^eh-d+iy=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_144"
+~t "T_d"
+<ENDHMM>
+~h "x^t-ax+dh=x"
+<BEGINHMM>
+<NUMSTATES> 3
+<STATE> 2
+~s "dur_s2_393"
+~t "T_ax"
+<ENDHMM>
